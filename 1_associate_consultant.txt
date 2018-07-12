@@ -1,0 +1,71 @@
+Professional skills
+Actively uses design patterns, writes quality code. Performs peer reviews of code and documents the findings concisely.
+
+
+Quality of work
+Writes production-ready code that gets only minor comments during review. Works well with colleagues to ensure quality.
+
+
+Effectiveness
+Shows a good speed of work, slowing down only in case of external blockages. Thinks ahead and solves incoming problems.
+
+
+Problem solving skills
+Ability to work through details of a problem to reach a solution.
++2 Approaches all problems with confidence and the dedication to generate solid and innovative solutions.\nConsistently comes up with outstanding solutions to the most demanding problems.
++1 Comes up with creative strategies when other employees are stuck.\nTakes a fresh look at problems and identifies new ways to solve them.\nAble to come up with multiple last-minute solutions.
+0 Gets insight into tasks quickly, proposes directions to solve issues.\nAble to change the strategy when unable to move forward.\nCan be dropped into a new and unfamiliar task type.\nCan effectively ask s when needed. Delivers working solutions.
+-1 Identifies problems, but sometimes takes inadequate steps to resolve them. Prefers choosing known task types if possible.\nGets confused in unexpected situations.\nDoes not ask s when appropriate, trying to solve everything alone.
+-2 In most cases, comes up with solutions that are incorrect, insufficient, and invalid.\nFails to apply lessons learned from similar cases.\nGives up upon encountering the first blocking issue.\nAnalyzes minor issues and lets larger problems grow.
+
+
+Reliability
+Provides reasonable estimations for features and can deliver quality on time.
+
+
+Attitude & Dedication
+Ambition, approach to tasks, showing interest in work, motivation, helpfulness, teamwork, initiative, asking for support if blocked, adequate escalation.
++2 Able to motivate others, find interesting problems in the work, seeks a challenge, diligent, role model, happy to help others.
++1 Positive effect on people around, likes the job, strives to reach the next level.
+0 Acts professionally, only minor problems and issues, reasonable most of the time. Observes company policies. Ambitious and helpful.
+-1 Sometimes negative, not motivated. Tired of problems and the client, which is visible for others. Sometimes does not ask for help / does not invest effort before asking.
+-2 Negative, not motivated, destroys others' good spirit, bad team member, lazy. Does not realize when to ask for help.
+
+
+Communication skills
+Written and verbal communication, especially on team meetings. Includes interaction with team members and the customer.
++2 Can lead discussions; clear, brief, and to-the-point e-mails; effective verbal communication.
++1 Effective discussions and e-mail threads, able to promptly clarify complex issues.
+0 Able to describe things in a way people can understand. Able to express short and concise opinions.\nCan effectively participate in discussions.
+-1 Sometimes unclear or ambiguous text in e-mails, misunderstanding other people's words.
+-2 Major written and verbal communication problems. May avoid public speaking or keep silence on the meetings even when has ideas to share. Not supposed to communicate with the client.
+
+
+Contribution
+Valuable effort contributed to the company and the customer.
++2 Initiates and actively participates in different kinds of project and non-project activities beyond main responsibilities, bringing additional value and expertise without negative impact on regular duties.
++1 Supports initiatives and optional activities, sometimes taking extra effort for company and/or customer improvements.
+0 Works with full load on regular activities, accepts tasks and resolves them in a timely manner, contributes to the team according to the main responsibilities.
+-1 Not willing to participate in initiatives even if current workload allows it, doesn’t demonstrate interest in process improvements.
+-2 Workload is often below average, underutilization without appropriate notification. Rejects to participate in improvement programs even if it is required by main responsibilities.
+
+
+Self development
+Volunteers to give training sessions and coaching. Supports senior developers with optional project tasks. Joins out-of-office activities. Knows new software trends.
+
+
+Leadership
+Can coach project newcomers. Can lead small sub-projects with supervision. Can involve others and make sure that work is done. Can work with other team members effectively.
+
+
+Work w/ him/her in next project?
+Would you be happy to work with him/her again on your next project or team?
++2 Absolutely. She/he is exceptionally good to work with, we are very efficient together.
++1 I'd be happy to work with her/him again on my next project.
+0 I'm neutral, no good or bad feelings towards the person. We could work again.
+-1 If possible, no, we are not an ideal combination. We can work together, but usually have some issues – see the Textual summary field.
+-2 Definitely not, I have major concerns about this person so I'd like to avoid being on the same team. For reasons see the Textual summary field.
+
+
+Overall evaluation
+A reliable, stable team member who delivers. Solves problems, not generates them. Warns others of blockages in advance. Shows a good quality and speed of work, and exceptional knowledge in some areas.

@@ -1,0 +1,498 @@
+{
+    "criteria": [
+        {
+            "id": 2,
+            "type": "LabeledValue",
+            "label": "Professional skills",
+            "questionHint": "Actively uses design patterns, writes quality code. Performs peer reviews of code and documents the findings concisely.",
+            "answer": {
+                "na": false,
+                "visible": true,
+                "fields": [
+                    {
+                        "value": "E",
+                        "hint": null
+                    },
+                    {
+                        "value": "D",
+                        "hint": null
+                    },
+                    {
+                        "value": "C",
+                        "hint": null
+                    },
+                    {
+                        "value": "B",
+                        "hint": null
+                    },
+                    {
+                        "value": "A",
+                        "hint": null
+                    },
+                    {
+                        "value": "nan",
+                        "hint": null
+                    }
+                ],
+                "selectedIndex": 2
+            },
+            "mandatory": false
+        },
+        {
+            "id": 15,
+            "type": "LabeledValue",
+            "label": "Quality of work",
+            "questionHint": "Writes production-ready code that gets only minor comments during review. Works well with colleagues to ensure quality.",
+            "answer": {
+                "na": false,
+                "visible": true,
+                "fields": [
+                    {
+                        "value": "E",
+                        "hint": null
+                    },
+                    {
+                        "value": "D",
+                        "hint": null
+                    },
+                    {
+                        "value": "C",
+                        "hint": null
+                    },
+                    {
+                        "value": "B",
+                        "hint": null
+                    },
+                    {
+                        "value": "A",
+                        "hint": null
+                    },
+                    {
+                        "value": "nan",
+                        "hint": null
+                    }
+                ],
+                "selectedIndex": 2
+            },
+            "mandatory": false
+        },
+        {
+            "id": 6,
+            "type": "LabeledValue",
+            "label": "Effectiveness",
+            "questionHint": "Shows a good speed of work, slowing down only in case of external blockages. Thinks ahead and solves incoming problems.",
+            "answer": {
+                "na": false,
+                "visible": true,
+                "fields": [
+                    {
+                        "value": "E",
+                        "hint": null
+                    },
+                    {
+                        "value": "D",
+                        "hint": null
+                    },
+                    {
+                        "value": "C",
+                        "hint": null
+                    },
+                    {
+                        "value": "B",
+                        "hint": null
+                    },
+                    {
+                        "value": "A",
+                        "hint": null
+                    },
+                    {
+                        "value": "nan",
+                        "hint": null
+                    }
+                ],
+                "selectedIndex": 2
+            },
+            "mandatory": false
+        },
+        {
+            "id": 17,
+            "type": "LabeledValue",
+            "label": "Problem solving skills",
+            "questionHint": "Ability to work through details of a problem to reach a solution.",
+            "answer": {
+                "na": false,
+                "visible": true,
+                "fields": [
+                    {
+                        "value": "E",
+                        "hint": "Approaches all problems with confidence and the dedication to generate solid and innovative solutions.\nConsistently comes up with outstanding solutions to the most demanding problems."
+                    },
+                    {
+                        "value": "D",
+                        "hint": "Comes up with creative strategies when other employees are stuck.\nTakes a fresh look at problems and identifies new ways to solve them.\nAble to come up with multiple last-minute solutions."
+                    },
+                    {
+                        "value": "C",
+                        "hint": "Gets insight into tasks quickly, proposes directions to solve issues.\nAble to change the strategy when unable to move forward.\nCan be dropped into a new and unfamiliar task type.\nCan effectively ask questions when needed. Delivers working solutions."
+                    },
+                    {
+                        "value": "B",
+                        "hint": "Identifies problems, but sometimes takes inadequate steps to resolve them. Prefers choosing known task types if possible.\nGets confused in unexpected situations.\nDoes not ask questions when appropriate, trying to solve everything alone."
+                    },
+                    {
+                        "value": "A",
+                        "hint": "In most cases, comes up with solutions that are incorrect, insufficient, and invalid.\nFails to apply lessons learned from similar cases.\nGives up upon encountering the first blocking issue.\nAnalyzes minor issues and lets larger problems grow."
+                    },
+                    {
+                        "value": "nan",
+                        "hint": null
+                    }
+                ],
+                "selectedIndex": 2
+            },
+            "mandatory": false
+        },
+        {
+            "id": 3,
+            "type": "LabeledValue",
+            "label": "Reliability",
+            "questionHint": "Provides reasonable estimations for features and can deliver quality on time.",
+            "answer": {
+                "na": false,
+                "visible": true,
+                "fields": [
+                    {
+                        "value": "E",
+                        "hint": null
+                    },
+                    {
+                        "value": "D",
+                        "hint": null
+                    },
+                    {
+                        "value": "C",
+                        "hint": null
+                    },
+                    {
+                        "value": "B",
+                        "hint": null
+                    },
+                    {
+                        "value": "A",
+                        "hint": null
+                    },
+                    {
+                        "value": "nan",
+                        "hint": null
+                    }
+                ],
+                "selectedIndex": 1
+            },
+            "mandatory": false
+        },
+        {
+            "id": 18,
+            "type": "LabeledValue",
+            "label": "Attitude & Dedication",
+            "questionHint": "Ambition, approach to tasks, showing interest in work, motivation, helpfulness, teamwork, initiative, asking for support if blocked, adequate escalation.",
+            "answer": {
+                "na": false,
+                "visible": true,
+                "fields": [
+                    {
+                        "value": "E",
+                        "hint": "Able to motivate others, find interesting problems in the work, seeks a challenge, diligent, role model, happy to help others."
+                    },
+                    {
+                        "value": "D",
+                        "hint": "Positive effect on people around, likes the job, strives to reach the next level."
+                    },
+                    {
+                        "value": "C",
+                        "hint": "Acts professionally, only minor problems and issues, reasonable most of the time. Observes company policies. Ambitious and helpful."
+                    },
+                    {
+                        "value": "B",
+                        "hint": "Sometimes negative, not motivated. Tired of problems and the client, which is visible for others. Sometimes does not ask for help / does not invest effort before asking."
+                    },
+                    {
+                        "value": "A",
+                        "hint": "Negative, not motivated, destroys others' good spirit, bad team member, lazy. Does not realize when to ask for help."
+                    },
+                    {
+                        "value": "nan",
+                        "hint": null
+                    }
+                ],
+                "selectedIndex": 1
+            },
+            "mandatory": false
+        },
+        {
+            "id": 8,
+            "type": "LabeledValue",
+            "label": "Communication skills",
+            "questionHint": "Written and verbal communication, especially on team meetings. Includes interaction with team members and the customer.",
+            "answer": {
+                "na": false,
+                "visible": true,
+                "fields": [
+                    {
+                        "value": "E",
+                        "hint": "Can lead discussions; clear, brief, and to-the-point e-mails; effective verbal communication."
+                    },
+                    {
+                        "value": "D",
+                        "hint": "Effective discussions and e-mail threads, able to promptly clarify complex issues."
+                    },
+                    {
+                        "value": "C",
+                        "hint": "Able to describe things in a way people can understand. Able to express short and concise opinions.\nCan effectively participate in discussions."
+                    },
+                    {
+                        "value": "B",
+                        "hint": "Sometimes unclear or ambiguous text in e-mails, misunderstanding other people's words."
+                    },
+                    {
+                        "value": "A",
+                        "hint": "Major written and verbal communication problems. May avoid public speaking or keep silence on the meetings even when has ideas to share. Not supposed to communicate with the client."
+                    },
+                    {
+                        "value": "nan",
+                        "hint": null
+                    }
+                ],
+                "selectedIndex": 2
+            },
+            "mandatory": false
+        },
+        {
+            "id": 19,
+            "type": "LabeledValue",
+            "label": "Contribution",
+            "questionHint": "Valuable effort contributed to the company and the customer.",
+            "answer": {
+                "na": false,
+                "visible": true,
+                "fields": [
+                    {
+                        "value": "E",
+                        "hint": "Initiates and actively participates in different kinds of project and non-project activities beyond main responsibilities, bringing additional value and expertise without negative impact on regular duties."
+                    },
+                    {
+                        "value": "D",
+                        "hint": "Supports initiatives and optional activities, sometimes taking extra effort for company and/or customer improvements."
+                    },
+                    {
+                        "value": "C",
+                        "hint": "Works with full load on regular activities, accepts tasks and resolves them in a timely manner, contributes to the team according to the main responsibilities."
+                    },
+                    {
+                        "value": "B",
+                        "hint": "Not willing to participate in initiatives even if current workload allows it, doesn’t demonstrate interest in process improvements."
+                    },
+                    {
+                        "value": "A",
+                        "hint": "Workload is often below average, underutilization without appropriate notification. Rejects to participate in improvement programs even if it is required by main responsibilities."
+                    },
+                    {
+                        "value": "nan",
+                        "hint": null
+                    }
+                ],
+                "selectedIndex": 2
+            },
+            "mandatory": false
+        },
+        {
+            "id": 20,
+            "type": "LabeledValue",
+            "label": "Self development",
+            "questionHint": "Volunteers to give training sessions and coaching. Supports senior developers with optional project tasks. Joins out-of-office activities. Knows new software trends.",
+            "answer": {
+                "na": false,
+                "visible": true,
+                "fields": [
+                    {
+                        "value": "E",
+                        "hint": null
+                    },
+                    {
+                        "value": "D",
+                        "hint": null
+                    },
+                    {
+                        "value": "C",
+                        "hint": null
+                    },
+                    {
+                        "value": "B",
+                        "hint": null
+                    },
+                    {
+                        "value": "A",
+                        "hint": null
+                    },
+                    {
+                        "value": "nan",
+                        "hint": null
+                    }
+                ],
+                "selectedIndex": 2
+            },
+            "mandatory": false
+        },
+        {
+            "id": 7,
+            "type": "LabeledValue",
+            "label": "English",
+            "questionHint": "Written and spoken English.",
+            "answer": {
+                "na": false,
+                "visible": true,
+                "fields": [
+                    {
+                        "value": "E",
+                        "hint": "Close to native speaker level."
+                    },
+                    {
+                        "value": "D",
+                        "hint": "Well-written e-mails, informal discussions, good vocabulary, fluent verbal communication.\nCan easily write documents from scratch."
+                    },
+                    {
+                        "value": "C",
+                        "hint": "Decent written and verbal communication, doesn't require correction."
+                    },
+                    {
+                        "value": "B",
+                        "hint": "Sometimes problematic English, but able to communicate in general. Able to read/write e-mails, follow discussions."
+                    },
+                    {
+                        "value": "A",
+                        "hint": "Spelling and grammatical errors in writing.\nCannot speak during daily stand-up meetings.\nMajor problems with verbal communication."
+                    },
+                    {
+                        "value": "nan",
+                        "hint": null
+                    }
+                ],
+                "selectedIndex": 2
+            },
+            "mandatory": false
+        },
+        {
+            "id": 10,
+            "type": "LabeledValue",
+            "label": "Leadership",
+            "questionHint": "Can coach project newcomers. Can lead small sub-projects with supervision. Can involve others and make sure that work is done. Can work with other team members effectively.",
+            "answer": {
+                "na": true,
+                "visible": true,
+                "fields": [
+                    {
+                        "value": "E",
+                        "hint": null
+                    },
+                    {
+                        "value": "D",
+                        "hint": null
+                    },
+                    {
+                        "value": "C",
+                        "hint": null
+                    },
+                    {
+                        "value": "B",
+                        "hint": null
+                    },
+                    {
+                        "value": "A",
+                        "hint": null
+                    },
+                    {
+                        "value": "nan",
+                        "hint": null
+                    }
+                ],
+                "selectedIndex": null
+            },
+            "mandatory": false
+        },
+        {
+            "id": 13,
+            "type": "LabeledValue",
+            "label": "Work w/ him/her in next project?",
+            "questionHint": "Would you be happy to work with him/her again on your next project or team?",
+            "answer": {
+                "na": false,
+                "visible": true,
+                "fields": [
+                    {
+                        "value": "E",
+                        "hint": "Absolutely. She/he is exceptionally good to work with, we are very efficient together."
+                    },
+                    {
+                        "value": "D",
+                        "hint": "I'd be happy to work with her/him again on my next project."
+                    },
+                    {
+                        "value": "C",
+                        "hint": "I'm neutral, no good or bad feelings towards the person. We could work again."
+                    },
+                    {
+                        "value": "B",
+                        "hint": "If possible, no, we are not an ideal combination. We can work together, but usually have some issues – see the Textual summary field."
+                    },
+                    {
+                        "value": "A",
+                        "hint": "Definitely not, I have major concerns about this person so I'd like to avoid being on the same team. For reasons see the Textual summary field."
+                    },
+                    {
+                        "value": "nan",
+                        "hint": null
+                    }
+                ],
+                "selectedIndex": 1
+            },
+            "mandatory": true
+        },
+        {
+            "id": 11,
+            "type": "LabeledValue",
+            "label": "Overall evaluation",
+            "questionHint": "A reliable, stable team member who delivers. Solves problems, not generates them. Warns others of blockages in advance. Shows a good quality and speed of work, and exceptional knowledge in some areas.",
+            "answer": {
+                "na": false,
+                "visible": true,
+                "fields": [
+                    {
+                        "value": "E",
+                        "hint": null
+                    },
+                    {
+                        "value": "D",
+                        "hint": null
+                    },
+                    {
+                        "value": "C",
+                        "hint": null
+                    },
+                    {
+                        "value": "B",
+                        "hint": null
+                    },
+                    {
+                        "value": "A",
+                        "hint": null
+                    },
+                    {
+                        "value": "nan",
+                        "hint": null
+                    }
+                ],
+                "selectedIndex": 1
+            },
+            "mandatory": true
+        }
+    ]
+}

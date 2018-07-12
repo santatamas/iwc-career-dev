@@ -1,0 +1,69 @@
+Professional skills
+Follows technology trends. Shows technical expertise in a wide spectrum of technologies and frameworks of a chosen platform (Java/.NET/iOS/etc.). Can architect an application and application components. Can create a System Architecture Document (SAD)
+ from scratch.
+
+Quality of work
+Writes top-quality code without side effects even under pressure. Refactors code as necessary. Others use the code as a model.
+
+Effectiveness
+Creates fundamental components that others can use, drives development/deployment infrastructure improvements and refactoring sessions. Keeps up-to-date with new processes.
+
+Problem solving skills
+Ability to work through details of a problem to reach a solution.
+ +2 Approaches all problems with confidence and the dedication to generate solid and innovative solutions. Consistently comes up with outstanding solutions to the most demanding problems.
+ +1 Comes up with creative strategies when other employees are stuck. Takes a fresh look at problems and identifies new ways to solve them. Able to come up with multiple last-minute solutions.
+  0 Gets insight into tasks quickly, proposes directions to solve issues. Able to change the strategy when unable to move forward. Can be dropped into a new and unfamiliar task type. Can effectively ask questions when needed. Delivers working solutions.
+ -1 Identifies problems, but sometimes takes inadequate steps to resolve them. Prefers choosing known task types if possible. Gets confused in unexpected situations. Does not ask questions when appropriate, trying to solve everything alone.
+ -2 In most cases, comes up with solutions that are incorrect, insufficient, and invalid. Fails to apply lessons learned from similar cases. Gives up upon encountering the first blocking issue. Analyzes minor issues and lets larger problems grow.
+
+Reliability
+Able to convince the customer about alternative solutions, manages the scope of work, understands the business need.
+
+Attitude & Dedication
+Ambition, approach to tasks, showing interest in work, motivation, helpfulness, teamwork, initiative, asking for support if blocked, adequate escalation.
+ +2 Able to motivate others, find interesting problems in the work, seeks a challenge, diligent, role model, happy to help others.
+ +1 Positive effect on people around, likes the job, strives to reach the next level.
+  0 Acts professionally, only minor problems and issues, reasonable most of the time. Observes company policies. Ambitious and helpful.
+ -1 Sometimes negative, not motivated. Tired of problems and the client, which is visible for others. Sometimes does not ask for help / does not invest effort before asking.
+ -2 Negative, not motivated, destroys others' good spirit, bad team member, lazy. Does not realize when to ask for help.
+
+Communication skills
+Written and verbal communication, especially on team meetings. Includes interaction with team members and the customer.
+ +2 Can lead discussions; clear, brief, and to-the-point e-mails; effective verbal communication.
+ +1 Effective discussions and e-mail threads, able to promptly clarify complex issues.
+  0 Able to describe things in a way people can understand. Able to express short and concise opinions. Can effectively participate in discussions.
+ -1 Sometimes unclear or ambiguous text in e-mails, misunderstanding other people's words.
+ -2 Major written and verbal communication problems. May avoid public speaking or keep silence on the meetings even when has ideas to share. Not supposed to communicate with the client.
+
+Contribution
+Valuable effort contributed to the company and the customer.
+ +2 Initiates and actively participates in different kinds of project and non-project activities beyond main responsibilities, bringing additional value and expertise without negative impact on regular duties.
+ +1 Supports initiatives and optional activities, sometimes taking extra effort for company and/or customer improvements.
+  0 Works with full load on regular activities, accepts tasks and resolves them in a timely manner, contributes to the team according to the main responsibilities.
+ -1 Not willing to participate in initiatives even if current workload allows it, doesn’t demonstrate interest in process improvements.
+ -2 Workload is often below average, underutilization without appropriate notification. Rejects to participate in improvement programs even if it is required by main responsibilities.
+
+Self development
+Coaches two or more people. Presents one or more trainings. Technical interviewer. Company-wide expert. Tries out new technologies on internal projects, reads blogs/books, watches training videos
+
+PDP Status
+Evaluate the status of the Personal Development Plan (PDP) goals - short/mid and long term - set during the last PDP discussion. Only consider goals which should be achieved in the time period reviewed. If no PDP discussion happened, please set it to N/A.
+ +2 Exceeded most of the PDP goals given.
+ +1 Met all PDP goals and exceeded some of them.
+  0 Met the PDP goals.
+ -1 Met some of the PDP goals.
+ -2 Met no goals, paid no attention to PDP.
+
+English
+Written and spoken English.
+ +2 Close to native speaker level.
+ +1 Well-written e-mails, informal discussions, good vocabulary, fluent verbal communication. Can easily write documents from scratch.
+  0 Decent written and verbal communication, doesn't require correction.
+ -1 Sometimes problematic English, but able to communicate in general. Able to read/write e-mails, follow discussions.
+ -2 Spelling and grammatical errors in writing. Cannot speak during daily stand-up meetings. Major problems with verbal communication.
+
+Leadership
+Can manage multi-site projects and be a deputy PM. Takes leadership in development processes. Organizes knowledge transfer.
+
+Overall evaluation
+Can manage a big project or multi-site situations. Solves sensitive situations. Expert in several aspects of technology, fast learner, trusted by the customer. Role model for seniors.
