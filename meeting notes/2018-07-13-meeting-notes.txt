@@ -1,0 +1,16 @@
+https://github.com/santatamas/iwc-career-dev
+
+Immersion Phase:
+Actions:
+
+- Research on techniques - e.g., skills matrix.
+    - Trial these.
+    - Meet with Clem to discuss existing techniques at IW.
+- Research on different attributes.
+- Think about feedback methodology.
+- Research on software tools for personal development - e.g., bamboohr
+
+Thoughts:
+* how do we make it less corporate?
+- should we make it optional?
+- should we make it private?
